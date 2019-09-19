@@ -1,6 +1,6 @@
 # Python Lesson
 
 
-Author: Till
+Author: TiLll
 
 Date: 18.09.2019
